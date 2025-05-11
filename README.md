@@ -1,7 +1,5 @@
 # pandas_numpy_features
-Of course! Here’s a clear, **theory-only** explanation about **Pandas** and **NumPy** in paragraph form, just like you asked:
 
----
 
 ### **Pandas**
 
